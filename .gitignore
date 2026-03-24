@@ -1,0 +1,10 @@
+tools/.env
+*.pyc
+__pycache__/
+.claude/
+reports/serp/
+content/video-*
+content/*.mp3
+content/*.mp4
+node_modules/
+.DS_Store

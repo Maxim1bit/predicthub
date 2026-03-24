@@ -1,0 +1,27 @@
+# PredictHub Tools — Dependencies
+# Install: pip install -r tools/requirements.txt
+
+# Twitter/X posting
+tweepy>=4.14.0
+
+# Telegram bot
+python-telegram-bot>=21.0
+
+# Polymarket trading
+py-clob-client>=0.5.0
+web3==6.14.0
+
+# SERP screenshots
+playwright>=1.40.0
+
+# Video generation
+elevenlabs>=1.0.0
+moviepy>=1.0.3
+
+# OBS control
+obsws-python>=1.7.0
+
+# Utilities
+python-dotenv>=1.0.0
+requests>=2.31.0
+schedule>=1.2.0
